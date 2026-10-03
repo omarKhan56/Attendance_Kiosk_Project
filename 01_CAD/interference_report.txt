@@ -1,0 +1,1 @@
+Interference check (all part pairs, tilt 30/35/40 deg): no overlapping volumes found.

@@ -1,0 +1,36 @@
+Item,Part,Sub-assembly,Material,Volume_cm3,Mass_kg_est
+1,Base_Plate,Base,"Steel, powder coat black",4759.0,37.36
+2,Column_Flange,Base,"Steel, zinc plated",689.2,5.41
+3,Rubber_Foot_1,Base,EPDM rubber,4.2,0.0
+4,Rubber_Foot_2,Base,EPDM rubber,4.2,0.0
+5,Rubber_Foot_3,Base,EPDM rubber,4.2,0.0
+6,Rubber_Foot_4,Base,EPDM rubber,4.2,0.0
+7,Bolt_M8_1,Fasteners,"Steel, zinc plated",2.2,0.02
+8,Bolt_M8_2,Fasteners,"Steel, zinc plated",2.2,0.02
+9,Bolt_M8_3,Fasteners,"Steel, zinc plated",2.2,0.02
+10,Bolt_M8_4,Fasteners,"Steel, zinc plated",2.2,0.02
+11,Column_Front_Panel,Column,"Steel 2 mm, powder coat white",481.2,3.78
+12,Column_Rear_Cover,Column,"Steel 2 mm, powder coat dark",482.4,3.79
+13,Column_Side_Left,Column,"Steel 2 mm, powder coat dark",317.5,2.49
+14,Column_Side_Right,Column,"Steel 2 mm, powder coat dark",317.5,2.49
+15,Column_Top_Plate,Column,Steel 2 mm,116.0,0.91
+16,Frame_Rail_1,Column,Steel tube 20x20x2,117.2,0.92
+17,Frame_Rail_2,Column,Steel tube 20x20x2,117.2,0.92
+18,Frame_Rail_3,Column,Steel tube 20x20x2,117.2,0.92
+19,Frame_Rail_4,Column,Steel tube 20x20x2,117.2,0.92
+20,Head_Rear_Housing,Head,"Sheet steel / ABS, dark",763.4,5.99
+21,Display_Bezel,Head,"Aluminium, brushed",893.2,2.41
+22,Display_15in_Panel,Head,"LCD module, black glass",940.8,1.41
+23,Vent_Grille,Head,ABS black,7.8,0.01
+24,Camera_Mount_Plate,Head,Steel 3 mm,4.5,0.04
+25,Camera_Module,Head,Camera board + lens,4.7,0.01
+26,Tilt_Bracket,Head,Steel 6 mm,235.2,1.85
+27,QR_Scanner_Module,Column,Scanner module,105.0,0.16
+28,QR_Scanner_Bracket,Column,Steel 3 mm,43.2,0.34
+29,Electronics_Box,Electronics,"Steel 2 mm, powder coat dark",430.3,3.38
+30,Mounting_Plate,Electronics,"Steel 2 mm, galvanised",120.0,0.94
+31,Raspberry_Pi_Block,Electronics,Raspberry Pi 4 (simplified),66.6,0.1
+32,Power_Supply_Block,Electronics,5V/12V PSU (simplified),180.0,0.27
+33,Cable_Gland_1,Electronics,PG9 nylon,2.5,0.0
+34,Cable_Gland_2,Electronics,PG9 nylon,2.5,0.0
+35,Cable_Gland_3,Electronics,PG9 nylon,2.5,0.0

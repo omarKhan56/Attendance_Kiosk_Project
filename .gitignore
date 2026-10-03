@@ -1,0 +1,11 @@
+# secrets and local files - never commit these
+.env
+*.db
+__pycache__/
+node_modules/
+venv/
+.venv/
+*.pyc
+# SolidWorks temp/backup files
+~$*
+*.SLDPRT.bak
